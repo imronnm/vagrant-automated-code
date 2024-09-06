@@ -1,4 +1,4 @@
-# Setup Vagrant Terotomatisasi untuk Teknologi Java
+# Setup Vagrant automation menggunakan web server java
 
 Repository ini berisi konfigurasi Vagrant untuk menyiapkan lingkungan pengembangan dengan teknologi berikut:
 
